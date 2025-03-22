@@ -62,13 +62,12 @@ Before running **SnafflerShieldX**, make sure the following are installed on you
 ### Run the program
 
 1. Run the requirments .bat :
-
    ```bash
-      requirments.bat
+       requirments.bat
    ```
-2.Run the GUI interface main.pyw
+2. Run the GUI interface main.pyw :
    ```bash
-      python main.pyw
+       python main.pyw
    ```
 
 3. **Interface**:
@@ -99,28 +98,9 @@ Once the script is launched, you will see the detected machine name and the opti
 5. The JSON file is then processed by a PowerShell script to generate a CSV report.
 6. The interface displays the results and allows you to open the CSV report or visualize the alerts in graphical form.
 
-## 🛠️ Development
-
-To contribute to the project, follow these steps:
-
-1. Fork this repository.
-2. Create a branch for your changes (`git checkout -b feature/feature-name`).
-3. Commit your changes (`git commit -am 'Added new feature'`).
-4. Push your branch (`git push origin feature/feature-name`).
-5. Open a Pull Request for review.
-
-## 🔒 License
-
-This project is licensed under the **MIT License**.
 
 ## 💬 Support
 
 For any questions or suggestions, feel free to open an **issue** or contact me directly via GitHub.
 
----
 
-### Notes:
-- Replace `path_to_your_image/gui_screenshot.png` and other placeholders with the actual path to your images within the project repository (or use external image URLs if they are hosted online).
-- You can add as many image placeholders as needed throughout the README to visually demonstrate your project's features.
-
-This updated version reflects your new project name, **SnafflerShieldX**, and includes sections where you can showcase images for a more visual and engaging README.
