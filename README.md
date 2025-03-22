@@ -48,8 +48,8 @@ Before running **SnafflerShieldX**, make sure the following are installed on you
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/SnafflerShieldX.git
-   cd SnafflerShieldX
+      git clone https://github.com/your-username/SnafflerShieldX.git
+      cd SnafflerShieldX
    ```
 
 2. **Start the Setup**:
@@ -68,7 +68,7 @@ Before running **SnafflerShieldX**, make sure the following are installed on you
    ```
 2.Run the GUI interface main.pyw
    ```bash
-   python main.pyw
+      python main.pyw
    ```
 
 3. **Interface**:
