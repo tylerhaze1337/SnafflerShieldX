@@ -87,7 +87,7 @@ class SnafflerGUI(QWidget):
             open(self.output_csv, 'w').close()
 
         # Commande complète sous forme de chaîne
-        command = f'"{self.snaffler_exe}" -s -n {machine} -o "{self.output_json}" -r 1000 -j 200 -v debug -y'
+        command = f'"{self.snaffler_exe}" -s -n {machine} -o "{self.output_json}" -r 10000000 -j 200 -v debug -y'
         
         print(f'"{self.snaffler_exe}" -s -n {machine} -o "{self.output_json}" -r 10000000 -j 200 -v debug -y')
 
